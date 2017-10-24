@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MapTest</string>
+    <string name="title_activity_main">About My Town</string>
+    <string name="text_location_permission">Standortdaten</string>
+    <string name="title_location_permission">Zugriff auf Standortdaten</string>
+    <string name="ok">OK</string>
+</resources>
